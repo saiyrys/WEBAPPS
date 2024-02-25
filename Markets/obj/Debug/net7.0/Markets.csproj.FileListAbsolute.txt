@@ -73,3 +73,13 @@ C:\Users\Павел\Desktop\LifeSphere\Markets\Markets\obj\Debug\net7.0\Markets.
 C:\Users\Павел\Desktop\LifeSphere\Markets\Markets\obj\Debug\net7.0\Markets.genruntimeconfig.cache
 C:\Users\Павел\Desktop\LifeSphere\Markets\Markets\obj\Debug\net7.0\ref\Markets.dll
 C:\Users\Павел\Desktop\LifeSphere\Markets\Markets\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Павел\Desktop\LifeSphere\Markets\Markets\bin\Debug\net7.0\JWT.dll
+C:\Users\Павел\Desktop\LifeSphere\Markets\Markets\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Павел\Desktop\LifeSphere\Markets\Markets\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Павел\Desktop\LifeSphere\Markets\Markets\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Павел\Desktop\LifeSphere\Markets\Markets\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Павел\Desktop\LifeSphere\Markets\Markets\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Павел\Desktop\LifeSphere\Markets\Markets\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Павел\Desktop\LifeSphere\Markets\Markets\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Павел\Desktop\LifeSphere\Markets\Markets\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Павел\Desktop\LifeSphere\Markets\Markets\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

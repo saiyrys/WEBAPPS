@@ -3,7 +3,7 @@ using Markets.Contracts.Requests.Categories;
 using Markets.Contracts.Requests.Products;
 using Markets.Contracts.Requests.Stores;
 
-namespace Markets.GraphQL
+namespace Markets.GraphQL.Markets
 {
     public class Mutation
     {

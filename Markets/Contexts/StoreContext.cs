@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Markets.Models;
+using System.Data;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Markets.Contexts
 {
@@ -12,7 +14,8 @@ namespace Markets.Contexts
 
         public virtual DbSet<Category> Categories { get; set; }
 
-
+        public DbSet<User> Users { get; set; }
+        public DbSet<Role> Roles { get; set; }
         public StoreContext(DbContextOptions<StoreContext> options) : base(options)
         {
 
@@ -58,4 +61,5 @@ namespace Markets.Contexts
             base.OnModelCreating(modelBuilder);
         }
     }
+
 }
